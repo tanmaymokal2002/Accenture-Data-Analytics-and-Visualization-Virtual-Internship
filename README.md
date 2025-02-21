@@ -1,14 +1,16 @@
 # Accenture Data Analytics and Visualization Virtual Internship
 
 ## Certificate:
-**Certificate**
+[Certificate](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Accenture%20North%20America_Data%20Analytics_completion_certificate.pdf)
+
 
 ## Task - 1: Project Overview
 A data analyst acts as a bridge between business objectives and data-driven insights.
 
 Accenture’s Managing Director, Mae Mulligan, leads the client engagement for Social Buzz. She has reviewed the client’s brief and assembled a skilled Accenture team to execute the project successfully. The internal Accenture team is set to have a project kickoff meeting tomorrow morning.
 
-### About the Client: Social Buzz
+### About Client: [Social Buzz](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Data_Analytics%20Client%20Brief.pdf)
+
 **Challenge:** Due to rapid expansion, the client faces difficulties in managing their large-scale operations.
 
 ### Accenture’s Objectives:
@@ -38,16 +40,21 @@ To determine the most popular content categories, only relevant datasets should 
 
 After cleaning, the final dataset will include three structured tables:
 
-- **Reaction Types**
-- **Reactions**
-- **Content**
+ - [Reaction Types](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/ReactionTypes.csv)
+ - [Reactions](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Reactions.csv)
+ - [Content](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Content.csv)
 
-### Data Modeling:
+
+### Data Modeling: 
+This is the provided [Data Model](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Data%20model.pdf).
 Merge the three datasets into a single, refined dataset for further analysis.
 
 **Final Output:**
 - A structured and cleaned dataset.
 - A list of the **top 5 content categories** based on popularity.
+  
+ ### Cleaned Data set:
+ So, the cleaned data set after data modelling & data cleaning : [Cleaned Dataset](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Cleaned%20Dataset.xlsx)
 
 ---
 ## Task - 3: Data Visualization and Storytelling
@@ -57,8 +64,8 @@ The insights must be presented visually using a PowerPoint presentation, followi
 - **Pie Chart**
 - **Bar Chart**
 
-**Final Output:** A compelling PowerPoint presentation (PPT) showcasing the analysis.
-
+ - Powerpoint Presentation : [PPT](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/PowerPoint%20presentation.pptx)
+ 
 ---
 ## Task - 4: Presenting Insights
 The final step involves presenting the PowerPoint to the client, explaining the key takeaways from the analysis and highlighting data-driven recommendations.
