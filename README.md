@@ -60,11 +60,16 @@ Merge the three datasets into a single, refined dataset for further analysis.
 ## Task - 3: Data Visualization and Storytelling
 The insights must be presented visually using a PowerPoint presentation, following the prescribed template.
 
-### Charts to Include:
-- **Pie Chart**
-- **Bar Chart**
+### Quick Summary:
 
- - Powerpoint Presentation : [PPT](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/PowerPoint%20presentation.pptx)
+- **Pie Chart**
+<img src = "Pie Chart.png">
+
+- **Bar Chart**
+<img src = "Bar Chart.png">
+
+### Detailed Presentation :
+ - [PPT](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/PowerPoint%20presentation.pptx)
  
 ---
 ## Task - 4: Presenting Insights
